@@ -3,11 +3,7 @@ sentence-transformers
 scikit-learn
 pandas
 numpy
-matplotlib
-seaborn
 datasets
-jupyter
 umap-learn
 plotly
 streamlit
-nbformat
