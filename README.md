@@ -1,4 +1,4 @@
-# Indic Language NLP: Embedding & Clustering Analysis
+# Indian language clustering using multilingual embeddings and machine learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
